@@ -74,5 +74,5 @@ docker run --rm \
 
 ## Authors
 
-Team ARuva Adobe
+Team ARuva
 
