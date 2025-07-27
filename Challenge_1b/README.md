@@ -121,10 +121,8 @@ All dependencies are installed via `requirements.txt` during Docker build.
 
 ---
 
-## 🧠 Authors & Credits
-
-Built for Adobe India Hackathon 2025 – Challenge 1B  
-Powered by Open Source: `pdfplumber`, `sentence-transformers`
+## 🧠 Authors 
+Team_ARuva
 
 ---
 
